@@ -21,7 +21,7 @@ This repository is the research of master life. Music topic is my favorite, so I
   + PCA
   + plot by PC1 to PC3
 * [20220608](https://yihsinlu.github.io/Jazz.io/Final_Presentation.html)
-  + Final report in 110-2
+  + The final report in 110-2
 * [20220701](https://yihsinlu.github.io/Jazz.io/visualizing01.html)
   + 16 instrument to 3 class
 * [20220715](https://yihsinlu.github.io/Jazz.io/Color_in_plots.html)
@@ -33,6 +33,10 @@ This repository is the research of master life. Music topic is my favorite, so I
   + similarity methods
   + combination of similarity methods
 * [20220811](https://yihsinlu.github.io/Jazz.io/DataMatrices.html)
-  + explain why use product of each value in two matrices
+  + explain why use the product of each value in two matrices
   + genre, recordLabel, yearsActive
   + main plot in paper
+* [20220819](https://yihsinlu.github.io/Jazz.io/mainplot0819.html)
+  + main plot
+  + pca vs t-sne
+
