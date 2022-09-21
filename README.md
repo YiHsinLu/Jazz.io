@@ -39,4 +39,11 @@ This repository is the research of master life. Music topic is my favorite, so I
 * [20220819](https://yihsinlu.github.io/Jazz.io/mainplot0819.html)
   + main plot
   + pca vs t-sne
-
+* [20220902](https://yihsinlu.github.io/Jazz.io/20220902.html)
+  + PCA for genres and record labels
+  + compare the zoom-in to others
+* [20220915](https://yihsinlu.github.io/Jazz.io/Sep15meeting.html)
+  + hand-pick and jaccard+PCA for genres
+  + plots
+    - weights for 3 classes in genres
+    - weight for 3 intervals in active years
