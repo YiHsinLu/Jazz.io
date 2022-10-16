@@ -47,3 +47,5 @@ This repository is the research of master life. Music topic is my favorite, so I
   + plots
     - weights for 3 classes in genres
     - weight for 3 intervals in active years
+* [20221003](https://yihsinlu.github.io/Jazz.io/Oct03.html)
+  + active years information from middle and length of years interval
