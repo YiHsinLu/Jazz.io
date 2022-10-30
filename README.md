@@ -52,3 +52,7 @@ This repository is the research of master life. Music topic is my favorite, so I
 * [20221017](https://yihsinlu.github.io/Jazz.io/1017.html)
   + new jaccard
   + new affinity matrix with new information
+* 20221024
+  + Rshiny app
+* [20221031](https://yihsinlu.github.io/Jazz.io/1031.html)
+  + Affinity vs Distance
