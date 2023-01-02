@@ -57,4 +57,4 @@ This repository is the research of master life. Music topic is my favorite, so I
 * [20221031](https://yihsinlu.github.io/Jazz.io/1031.html)
   + Affinity vs Distance
 * [20230110](https://yihsinlu.github.io/Jazz.io/ThesisPreseentation.html)
-  + P
+  + Presentation
