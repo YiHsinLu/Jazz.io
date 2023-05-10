@@ -1,0 +1,102 @@
+---
+title: "**【Jazz Muscician Maps】**"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    df_print: paged
+---
+
+```{r include=FALSE}
+library(kableExtra)
+library(tidytext)
+library(tidyverse)
+library(plot.matrix)
+library(stringr)
+library(ggpubr)
+library(highcharter)
+library(ggpubr)
+library(tm)
+library(SnowballC)
+library(wordcloud)
+library(RColorBrewer)
+library(wordcloud2)
+library(viridisLite)
+library(Rtsne)
+library(qvalue)
+library(jaccard)
+library(lsa)
+library(patchwork)
+library(plotly)
+load("maps.RData")
+```
+
+****
+
+## **1 First Maps**
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+first_map
+```
+
+## **2 Instruments Coloring** {.tabset}
+
+### `PCA`
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+visualpca_plot.instc
+```
+
+### `t-SNE`
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+visualTsne_plot.instc
+```
+
+****
+
+## **3 Genres Coloring** {.tabset}
+
+### `PCA`
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+visualpca_plot.genrec
+```
+
+### `t-SNE`
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+visualTsne_plot.genrec
+```
+
+****
+
+## **4 Middle of Active Years Coloring** {.tabset}
+
+### `PCA`
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+visualpca_plot.ysamidc
+```
+
+### `t-SNE`
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+visualTsne_plot.ysamidc
+```
+
+****
+
+## **5 Number of Active Decades Coloring** {.tabset}
+
+### `PCA`
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+visualpca_plot.ysalenc
+```
+
+### `t-SNE`
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+visualTsne_plot.ysalenc
+```
